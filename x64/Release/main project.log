@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\Data Structures\DS Project\Embedding Part\main project_Version02\main project\Source.cpp(532,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Data Structures\DS Project\Embedding Part\main project_Version02\main project\Source.cpp(651,6): warning C4101: 'indexValue': unreferenced local variable
+  Generating code
+  1 of 3275 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  main project.vcxproj -> E:\Data Structures\DS Project\Embedding Part\main project_Version02\x64\Release\main project.exe
