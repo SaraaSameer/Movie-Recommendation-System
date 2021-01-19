@@ -1,0 +1,378 @@
+﻿  autotune.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(49,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(52,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\autotune.cc(203,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\autotune.cc(235,42): warning C4244: 'argument': conversion from 'const _Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\autotune.cc(339,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\autotune.cc(340,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+  densematrix.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(49,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(52,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(22,72): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(41,11): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(41,23): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=fasttext::real
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(51,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(98,19): warning C4244: 'return': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(127,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(158,32): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4551,20): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.cc(31): message : see reference to function template instantiation 'void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &)' being compiled
+          with
+          [
+              _Ty=fasttext::real,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<fasttext::real>>>
+          ]
+  fasttext.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(49,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(52,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\productquantizer.h(30,19): warning C4305: 'initializing': truncation from 'double' to 'const fasttext::real'
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(84,28): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(117,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(121,17): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(285,30): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(304,47): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(313,39): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(345,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(396,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(400,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(414,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(418,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(498,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(502,20): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(515,21): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(521,20): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(533,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(551,46): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(599,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(620,31): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(622,32): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(624,31): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(639,47): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(656,15): warning C4244: 'initializing': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(714,22): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(731,22): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(806,25): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(625,76): warning C4244: '=': conversion from '_Ty' to 'double', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(296): message : see reference to function template instantiation 'std::tuple<double &,double &,int64_t &> &std::tuple<double &,double &,int64_t &>::operator =<int64_t,double,double,0>(std::tuple<int64_t,double,double> &&) noexcept' being compiled
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(296): message : see reference to function template instantiation 'std::tuple<double &,double &,int64_t &> &std::tuple<double &,double &,int64_t &>::operator =<int64_t,double,double,0>(std::tuple<int64_t,double,double> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(625,76): warning C4244: '=': conversion from '_Ty' to 'int64_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(624): message : see reference to function template instantiation 'std::tuple<int64_t &> &std::tuple<int64_t &>::operator =<double,0>(std::tuple<double> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(626): message : see reference to function template instantiation 'std::tuple<int64_t &> &std::tuple<int64_t &>::operator =<double,0>(std::tuple<double> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(624): message : see reference to function template instantiation 'std::tuple<double &,int64_t &> &std::tuple<double &,int64_t &>::operator =<double,double,0>(std::tuple<double,double> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(626): message : see reference to function template instantiation 'std::tuple<double &,int64_t &> &std::tuple<double &,int64_t &>::operator =<double,double,0>(std::tuple<double,double> &&) noexcept' being compiled
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(296): message : see reference to function template instantiation 'std::tuple<double &,double &,int64_t &> &std::tuple<double &,double &,int64_t &>::operator =<int64_t,double,double,0>(std::tuple<int64_t,double,double> &&) noexcept' being compiled
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(296): message : see reference to function template instantiation 'std::tuple<double &,double &,int64_t &> &std::tuple<double &,double &,int64_t &>::operator =<int64_t,double,double,0>(std::tuple<int64_t,double,double> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(163,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=int64_t,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=int64_t,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(825): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Exact_args_t,double,double,__int64,0>(_Tag,_This2 &&,double &&,__int64 &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(825): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Exact_args_t,double,double,__int64,0>(_Tag,_This2 &&,double &&,__int64 &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(251): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,double,int64_t>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,double,int64_t>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(251): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,double,int64_t>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,double,int64_t>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(377): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Unpack_tuple_t,std::tuple<double,double,int64_t>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,double,int64_t>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(377): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<std::_Unpack_tuple_t,std::tuple<double,double,int64_t>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,double,int64_t>
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(289): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<double,double,int64_t,0>(std::tuple<double,double,int64_t> &&) noexcept' being compiled
+C:\Users\Arzaan Ul\source\repos\main project\main project\fasttext.cc(289): message : see reference to function template instantiation 'std::tuple<int64_t,double,double>::tuple<double,double,int64_t,0>(std::tuple<double,double,int64_t> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(163,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=double,
+              _Ty=int64_t,
+              _Other=int64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=double,
+              _Ty=int64_t,
+              _Other=int64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::tuple<double>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int64_t,
+              _Tag=std::_Exact_args_t,
+              _This2=int64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::tuple<double>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int64_t,
+              _Tag=std::_Exact_args_t,
+              _This2=int64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::tuple<double,double>::tuple<std::_Exact_args_t,_Ty,__int64,0>(_Tag,_This2 &&,__int64 &&)' being compiled
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tuple(244): message : see reference to function template instantiation 'std::tuple<double,double>::tuple<std::_Exact_args_t,_Ty,__int64,0>(_Tag,_This2 &&,__int64 &&)' being compiled
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+  loss.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(27,18): warning C4244: 'return': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(34,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=fasttext::real
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(39,12): warning C4244: 'initializing': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(49,17): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(60,23): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(88,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(113,21): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(120,15): warning C4244: 'initializing': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(136,15): warning C4244: 'initializing': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(152,35): warning C4244: '+=': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(155,12): warning C4244: 'initializing': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(171,3): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(209,22): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(257,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(289,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(297,10): warning C4244: '=': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(299,59): warning C4244: 'argument': conversion from 'double' to 'fasttext::real', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(309,15): warning C4244: 'initializing': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(331,3): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(335,17): warning C4244: 'initializing': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\loss.cc(337,18): warning C4244: 'initializing': conversion from 'double' to 'fasttext::real', possible loss of data
+  meter.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\meter.cc(183,26): warning C4244: 'initializing': conversion from 'const _Ty1' to 'double', possible loss of data
+          with
+          [
+              _Ty1=uint64_t
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\meter.cc(184,27): warning C4244: 'initializing': conversion from 'const _Ty2' to 'double', possible loss of data
+          with
+          [
+              _Ty2=uint64_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5687,27): warning C4244: 'argument': conversion from 'const _Ty' to 'const double', possible loss of data
+          with
+          [
+              _Ty=uint64_t
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\meter.cc(175): message : see reference to function template instantiation '_FwdIt std::lower_bound<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,uint64_t,bool(__cdecl *)(const std::pair<double,double> &,const double &)>(_FwdIt,const _FwdIt,const unsigned __int64 &,_Pr)' being compiled
+          with
+          [
+              _FwdIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::pair<uint64_t,uint64_t>>>>,
+              _Ty=std::pair<uint64_t,uint64_t>,
+              _Pr=bool (__cdecl *)(const std::pair<double,double> &,const double &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(192,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=fasttext::real
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(693): message : see reference to function template instantiation 'std::pair<fasttext::real,fasttext::real>::pair<const fasttext::real&,_Ty,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Ty=double,
+              _Other1=const fasttext::real &,
+              _Other2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(694): message : see reference to function template instantiation 'std::pair<fasttext::real,fasttext::real>::pair<const fasttext::real&,_Ty,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Ty=double,
+              _Other1=const fasttext::real &,
+              _Other2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(682): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const fasttext::real&,double>(_Alloc &,_Objty *const ,const fasttext::real &,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<fasttext::real,fasttext::real>>,
+              _Ty=std::pair<fasttext::real,fasttext::real>,
+              _Objty=std::pair<fasttext::real,fasttext::real>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(687): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const fasttext::real&,double>(_Alloc &,_Objty *const ,const fasttext::real &,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<fasttext::real,fasttext::real>>,
+              _Ty=std::pair<fasttext::real,fasttext::real>,
+              _Objty=std::pair<fasttext::real,fasttext::real>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(700): message : see reference to function template instantiation 'void std::vector<std::pair<fasttext::real,fasttext::real>,std::allocator<std::pair<fasttext::real,fasttext::real>>>::_Emplace_back_with_unused_capacity<const fasttext::real&,_Ty>(const fasttext::real &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\meter.cc(46): message : see reference to function template instantiation 'void std::vector<std::pair<fasttext::real,fasttext::real>,std::allocator<std::pair<fasttext::real,fasttext::real>>>::emplace_back<const fasttext::real&,double>(const fasttext::real &,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(221,16): warning C4244: 'initializing': conversion from 'const _Ty1' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=uint64_t
+          ]
+          and
+          [
+              _Ty1=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5687): message : see reference to function template instantiation 'std::pair<double,double>::pair<uint64_t,uint64_t,0>(const std::pair<uint64_t,uint64_t> &) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5687): message : see reference to function template instantiation 'std::pair<double,double>::pair<uint64_t,uint64_t,0>(const std::pair<uint64_t,uint64_t> &) noexcept' being compiled
+C:\Users\Arzaan Ul\source\repos\main project\main project\meter.cc(175): message : see reference to function template instantiation '_FwdIt std::lower_bound<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,uint64_t,bool(__cdecl *)(const std::pair<double,double> &,const double &)>(_FwdIt,const _FwdIt,const unsigned __int64 &,_Pr)' being compiled
+          with
+          [
+              _FwdIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::pair<uint64_t,uint64_t>>>>,
+              _Ty=std::pair<uint64_t,uint64_t>,
+              _Pr=bool (__cdecl *)(const std::pair<double,double> &,const double &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(221,1): warning C4244: 'initializing': conversion from 'const _Ty2' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=uint64_t
+          ]
+          and
+          [
+              _Ty2=double
+          ]
+  quantmatrix.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(49,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(52,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\productquantizer.h(30,19): warning C4305: 'initializing': truncation from 'double' to 'const fasttext::real'
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(23,16): warning C4244: 'initializing': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(25,64): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(27,24): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(37,15): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(38,52): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(49,14): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(50,46): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(59,47): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(61,43): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\quantmatrix.cc(107,40): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+  Source.cpp
+  train.cpp
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(49,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\densematrix.h(52,25): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+  utils.cc
+  vector.cc
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(39,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.h(42,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(20,35): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(29,18): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(29,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(36,11): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(43,11): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(43,30): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(50,11): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(50,34): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(58,27): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(65,27): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(72,11): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(80,15): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(81,19): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4551,20): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Arzaan Ul\source\repos\main project\main project\vector.cc(23): message : see reference to function template instantiation 'void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &)' being compiled
+          with
+          [
+              _Ty=fasttext::real,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<fasttext::real>>>
+          ]
+  Generating Code...
+  main project.vcxproj -> C:\Users\Arzaan Ul\source\repos\main project\Debug\main project.exe
