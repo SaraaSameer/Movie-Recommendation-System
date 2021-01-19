@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-DataStrctures 3rd Semester Project 
+DataStructures 3rd Semester Project 
